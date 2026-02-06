@@ -23,3 +23,4 @@ Loading indicators and basic error handling for better user experience
 Mobile-friendly layout
 
 Includes mock stock data for testing and demonstrations
+
