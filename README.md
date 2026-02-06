@@ -24,3 +24,7 @@ Mobile-friendly layout
 
 Includes mock stock data for testing and demonstrations
 
+output :
+[output 1](screenshot/output1.png)
+[output 2](screenshot/output2.png)
+[output 3](screenshot/output3.png)
