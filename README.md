@@ -1,4 +1,5 @@
 ![image alt](https://github.com/SahanaGopalaKrishnan/Hackathon-realticker/blob/7b6654675b57bab4c0a79f877d6255b16b19c830/data%20flow.jpeg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSahanaGopalaKrishnan%2FHackathon-realticker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSahanaGopalaKrishnan%2FHackathon-realticker?ref=badge_shield)
 🚀 RealTicker – AI-Powered Stock Insights Platform
 
 RealTicker is a full-stack web application developed as part of a hackathon project. It helps users explore stock trends through interactive charts and provides basic AI-assisted insights to support understanding of market movement.
@@ -29,3 +30,7 @@ output :
 [output 1](screenshot/output1.png)
 [output 2](screenshot/output2.png)
 [output 3](screenshot/output3.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSahanaGopalaKrishnan%2FHackathon-realticker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSahanaGopalaKrishnan%2FHackathon-realticker?ref=badge_large)
